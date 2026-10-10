@@ -414,6 +414,9 @@ A general-purpose physics simulator for articulated dynamics and contact. Still 
 5. [机器人工程师学习计划](https://zhuanlan.zhihu.com/p/22266788)
    Specially Thanks to Shuo Yang. This article guided me into robotics in 2022.
 
+6. [Botstest](https://botstest.com/)
+   A categorized directory of embodied AI and robotics hardware, software, models, datasets and benchmarks, with links to original sources.
+
 ---
 
 # TODO
